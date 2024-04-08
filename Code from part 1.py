@@ -45,3 +45,5 @@ print("\nAverage Percent Error:", average_percent_error)
 # Print a comparison of actual and predicted monthly revenues
 print("\nComparison of Actual and Predicted Monthly Revenues:")
 print(df[['Monthly_Revenue', 'Predicted_Monthly_Revenue']])
+
+print ("Go Brewers")
